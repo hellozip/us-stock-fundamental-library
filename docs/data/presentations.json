@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-06-08 16:07:07",
+  "source": "D:\\美股基本面分析",
+  "count": 11,
+  "presentations": [
+    {
+      "id": "ai-agent-amd-amd-ai-strategic-breakthrough",
+      "index": 1,
+      "title": "AMD AI Strategic Breakthrough",
+      "category": "AI agent",
+      "company": "AMD",
+      "sourcePath": "D:\\美股基本面分析\\AI agent\\AMD\\AMD_AI_Strategic_Breakthrough.pdf",
+      "pdf": "pdfs/ai-agent__amd__amd-ai-strategic-breakthrough.pdf",
+      "sizeMB": 12.01,
+      "modified": "2026-06-04",
+      "pages": 11
+    },
+    {
+      "id": "ai-agent-arista-anet-arista-networks-ai-strategic-analysis",
+      "index": 2,
+      "title": "Arista Networks AI Strategic Analysis",
+      "category": "AI agent",
+      "company": "Arista_ANET",
+      "sourcePath": "D:\\美股基本面分析\\AI agent\\Arista_ANET\\Arista_Networks_AI_Strategic_Analysis.pdf",
+      "pdf": "pdfs/ai-agent__arista-anet__arista-networks-ai-strategic-analysis.pdf",
+      "sizeMB": 11.71,
+      "modified": "2026-06-04",
+      "pages": 12
+    },
+    {
+      "id": "ai-agent-台积电-tsmc-2026-strategic-roadmap",
+      "index": 3,
+      "title": "TSMC 2026 Strategic Roadmap",
+      "category": "AI agent",
+      "company": "台积电",
+      "sourcePath": "D:\\美股基本面分析\\AI agent\\台积电\\TSMC_2026_Strategic_Roadmap.pdf",
+      "pdf": "pdfs/ai-agent__台积电__tsmc-2026-strategic-roadmap.pdf",
+      "sizeMB": 16.77,
+      "modified": "2026-06-04",
+      "pages": 15
+    },
+    {
+      "id": "ai-agent-高通-qualcomm-edge-ai-revaluation",
+      "index": 4,
+      "title": "Qualcomm Edge AI Revaluation",
+      "category": "AI agent",
+      "company": "高通",
+      "sourcePath": "D:\\美股基本面分析\\AI agent\\高通\\Qualcomm_Edge_AI_Revaluation.pdf",
+      "pdf": "pdfs/ai-agent__高通__qualcomm-edge-ai-revaluation.pdf",
+      "sizeMB": 13.52,
+      "modified": "2026-06-04",
+      "pages": 14
+    },
+    {
+      "id": "ai-pc-aipc总览-ai-pc影响下十只美股分析",
+      "index": 5,
+      "title": "AI PC影响下十只美股分析",
+      "category": "AI PC",
+      "company": "AIPC总览",
+      "sourcePath": "D:\\美股基本面分析\\AI PC\\AIPC总览\\AI_PC影响下十只美股分析.pdf",
+      "pdf": "pdfs/ai-pc__aipc总览__ai-pc影响下十只美股分析.pdf",
+      "sizeMB": 17.25,
+      "modified": "2026-06-01",
+      "pages": 13
+    },
+    {
+      "id": "ai-pc-maevell-marvell",
+      "index": 6,
+      "title": "Marvell",
+      "category": "AI PC",
+      "company": "Maevell",
+      "sourcePath": "D:\\美股基本面分析\\AI PC\\Maevell\\Marvell.pdf",
+      "pdf": "pdfs/ai-pc__maevell__marvell.pdf",
+      "sizeMB": 16.97,
+      "modified": "2026-06-03",
+      "pages": 15
+    },
+    {
+      "id": "ai-pc-微软-微软",
+      "index": 7,
+      "title": "微软",
+      "category": "AI PC",
+      "company": "微软",
+      "sourcePath": "D:\\美股基本面分析\\AI PC\\微软\\微软.pdf",
+      "pdf": "pdfs/ai-pc__微软__微软.pdf",
+      "sizeMB": 12.99,
+      "modified": "2026-06-02",
+      "pages": 15
+    },
+    {
+      "id": "ai-pc-美光-美光",
+      "index": 8,
+      "title": "美光",
+      "category": "AI PC",
+      "company": "美光",
+      "sourcePath": "D:\\美股基本面分析\\AI PC\\美光\\美光.pdf",
+      "pdf": "pdfs/ai-pc__美光__美光.pdf",
+      "sizeMB": 10.21,
+      "modified": "2026-06-02",
+      "pages": 11
+    },
+    {
+      "id": "商业航空-联合航空-united-airlines",
+      "index": 9,
+      "title": "United Airlines",
+      "category": "商业航空",
+      "company": "联合航空",
+      "sourcePath": "D:\\美股基本面分析\\商业航空\\联合航空\\United_Airlines.pdf",
+      "pdf": "pdfs/商业航空__联合航空__united-airlines.pdf",
+      "sizeMB": 10.23,
+      "modified": "2026-06-03",
+      "pages": 13
+    },
+    {
+      "id": "商业航空-达美航空-delta-investment-blueprint",
+      "index": 10,
+      "title": "Delta Investment Blueprint",
+      "category": "商业航空",
+      "company": "达美航空",
+      "sourcePath": "D:\\美股基本面分析\\商业航空\\达美航空\\Delta_Investment_Blueprint.pdf",
+      "pdf": "pdfs/商业航空__达美航空__delta-investment-blueprint.pdf",
+      "sizeMB": 12.27,
+      "modified": "2026-06-03",
+      "pages": 13
+    },
+    {
+      "id": "网络安全-crowdstrike-crowdstrike-strategic-moat-11",
+      "index": 11,
+      "title": "CrowdStrike Strategic Moat (1)(1)",
+      "category": "网络安全",
+      "company": "CrowdStrike",
+      "sourcePath": "D:\\美股基本面分析\\网络安全\\CrowdStrike\\CrowdStrike_Strategic_Moat (1)(1).pdf",
+      "pdf": "pdfs/网络安全__crowdstrike__crowdstrike-strategic-moat-11.pdf",
+      "sizeMB": 14.38,
+      "modified": "2026-06-03",
+      "pages": 14
+    }
+  ]
+}
