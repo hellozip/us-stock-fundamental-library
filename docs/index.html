@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>美股基本面分析资料库</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>美股基本面分析资料库</h1>
+      <p id="metaLine">正在读取资料...</p>
+    </div>
+    <div class="top-actions">
+      <button id="openPdfBtn" class="ghost" type="button">打开 PDF</button>
+      <button id="fullscreenBtn" type="button">全屏阅读</button>
+    </div>
+  </header>
+
+  <main class="app-shell">
+    <aside class="library-panel">
+      <section class="controls">
+        <input id="searchInput" type="search" placeholder="搜索公司、主题或文件名" />
+        <select id="categorySelect" aria-label="选择主题">
+          <option value="">全部主题</option>
+        </select>
+      </section>
+      <section id="deckList" class="deck-list" aria-label="PDF 列表"></section>
+    </aside>
+
+    <section class="reader-panel" id="readerPanel">
+      <div class="reader-toolbar">
+        <div>
+          <h2 id="deckTitle">请选择一份报告</h2>
+          <p id="deckInfo">左侧选择 PDF 后，可在这里逐页浏览 PPT 内容。</p>
+        </div>
+        <div class="pager">
+          <button id="prevBtn" type="button" aria-label="上一页">‹</button>
+          <span id="pageLabel">- / -</span>
+          <button id="nextBtn" type="button" aria-label="下一页">›</button>
+        </div>
+      </div>
+      <div class="canvas-wrap">
+        <canvas id="pdfCanvas"></canvas>
+      </div>
+      <div id="thumbStrip" class="thumb-strip" aria-label="页面缩略图"></div>
+    </section>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
